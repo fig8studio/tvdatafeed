@@ -10,8 +10,6 @@ setup(
     url="https://github.com/rongardF/tvdatafeed/",
     project_urls={
         "YouTube": "https://youtube.com/StreamAlpha?sub_confirmation=1",
-        "Funding": "https://www.buymeacoffee.com/StreamAlpha",
-        "Telegram Channel": "https://t.me/streamAlpha",
         "Source": "https://github.com/StreamAlpha/tvdatafeed/",
         "Tracker": "https://github.com/StreamAlpha/tvdatafeed/issues",
     },
